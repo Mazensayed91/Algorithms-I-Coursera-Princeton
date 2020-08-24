@@ -8,9 +8,11 @@ The program takes an integer k as a command-line argument; reads a sequence of s
 
 # Ex:
 inputfile : cat distinct.txt
+
 outputof-file : A B C D E F G H I
 
 input : java Permutation 3 < distinct.txt
+
 output:
 C
 G

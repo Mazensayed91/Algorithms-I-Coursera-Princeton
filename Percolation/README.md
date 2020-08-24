@@ -1,3 +1,6 @@
+# Specification
+https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
+
 # To run 
 
 Download the 2 java files and compile the files and get .class files
